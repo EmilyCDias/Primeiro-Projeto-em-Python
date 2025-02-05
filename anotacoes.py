@@ -1,4 +1,5 @@
-#Um algoritmo em programação é uma sequência finita de passos bem definidos e ordenados que descrevem como resolver um problema ou realizar uma tarefa. Esses passos podem ser implementados em um programa de computador usando uma linguagem de programação.
+#Um algoritmo em programação é uma sequência finita de passos bem definidos e ordenados que descrevem como resolver um problema ou realizar uma tarefa. 
+# Esses passos podem ser implementados em um programa de computador usando uma linguagem de programação.
 
 #Características de um algoritmo:
 #Finitude: O algoritmo deve ter um número limitado de etapas e terminar após ser executado.
@@ -35,3 +36,7 @@ print("A soma é:", soma)
 # 4. Diagrama de Blocos: Versão simplificada do fluxograma, usando formas básicas.
 # 5. Tabelas de Decisão: Lista de condições e ações em formato tabular.
 # 6. Linguagem de Programação: O algoritmo representado diretamente no código.
+
+#Saida de dados: Interação do sistema com o usuario: Print
+#Entrada de dados: Interação do usuario com o sistema: Input
+
